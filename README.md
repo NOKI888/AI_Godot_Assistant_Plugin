@@ -11,9 +11,9 @@ Gemini APIを使用してGodotエディタを操作できるAIアシスタント
 - **スクリプト管理**: スクリプトの作成とアタッチ
 - **コンテキスト認識**: 現在のシーンツリーや選択中のノードを考慮した操作
 - **Polyhaven統合**: 高品質な無料3Dアセット、テクスチャ、HDRIをダウンロード（実験的機能）
-
-## セットアップ<img width="1919" height="1078" alt="3656" src="https://github.com/user-attachments/assets/027e529c-f4ce-477f-969d-cdaea0faa996" />
+<img width="1919" height="1078" alt="3656" src="https://github.com/user-attachments/assets/027e529c-f4ce-477f-969d-cdaea0faa996" />
 <img width="1160" height="717" alt="111" src="https://github.com/user-attachments/assets/33c02d7d-0cba-4e21-92d9-3b49caa9b8b5" />
+## セットアップ
 
 
 1. **プラグインのインストール**
